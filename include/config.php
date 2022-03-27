@@ -1,5 +1,5 @@
 <?php
 $host     = "localhost";    // Nama host
-$username = "root";         // Username database
-$password = "";   // Password database
-$database = "ams";   // Nama database
+$username = "Rei";         // Username database
+$password = "123admin";   // Password database
+$database = "Rei";   // Nama database
